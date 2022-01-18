@@ -10,7 +10,7 @@ package student_win22;
  */
 public class studentList {
     public static void main (String[]args){
-        Student [] studentList= new Student[3];
+        Student [] studentList= new Student[4];
         studentList [0]= new Student("s1", "Matt");
         studentList [0]= new Student("s2", "Uzi");
         studentList [0]= new Student("s3", "Han");
