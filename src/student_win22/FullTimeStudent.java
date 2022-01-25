@@ -7,6 +7,7 @@ package student_win22;
 /**
  *
  * @author camiloplaza
+ * why are you not pushing? 
  */
 public class FullTimeStudent {
     private int numberCourses;
