@@ -11,12 +11,13 @@ package student_win22;
 public class Student {
     private String studentId;
     private String studentName; 
+    private int id;
     
     public Student (String studentId,String studentName){
         this.studentId= studentId;
         this.studentName= studentName;
     }
-
+    
     public String getStudentId() {
         return studentId;
     }
